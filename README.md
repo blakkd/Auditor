@@ -22,7 +22,7 @@ Unlike traditional SAST tools, TheAuditor is designed specifically for AI-assist
 # Clone TheAuditor to your tools directory (NOT your project!)
 cd ~/tools  # or wherever you keep development tools
 git clone https://github.com/TheAuditorTool/Auditor.git
-cd TheAuditor
+cd Auditor
 
 # Install using your SYSTEM Python (no venv needed!)
 pip install -e .
